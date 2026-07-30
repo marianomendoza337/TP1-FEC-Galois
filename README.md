@@ -1,4 +1,4 @@
-# Galois Field & Polynomial Arithmetic en Python 
+# Campos de Galois y polinomios en Python
 
 Una implementación orientada a objetos, pura y eficiente de la aritmética de Campos de Galois $GF(2^m)$ y operaciones con polinomios. 
 
